@@ -18,3 +18,7 @@ Learn React and ES6
 - [x] Airing Today (TV)
 - [x] TV Show Detail
 - [x] Movie Detail
+
+
+# Preview:
+Try it on netlify
